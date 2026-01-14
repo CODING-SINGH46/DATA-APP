@@ -35,6 +35,47 @@ If you are a developer and wish to contribute:
 Please contact **PByte Soft** or open an issue/discussion in the repository
 to get involved.
 
+
+---
+
+## 🔐 License & Usage
+
+This project is **NOT open source**.
+
+The source code, design, and assets are protected under a
+**Proprietary License**.
+
+❌ You may NOT:
+- Copy the source code
+- Modify or redistribute the application
+- Use the app name, branding, or UI
+- Create derivative or commercial versions
+
+All rights are reserved by **PByte Soft**.
+
+See the `LICENSE` file for full legal terms.
+
+---
+
+## ⚠️ Disclaimer
+
+This application is intended for personal and business financial
+tracking purposes only. The developer is not responsible for financial
+decisions or data loss resulting from the use of this software.
+
+---
+
+## 📞 Contact
+
+**PByte Soft**  
+For licensing, permissions, or business inquiries, please contact the
+official owner.
+
+---
+
+© 2026 PByte Soft. All Rights Reserved.
+
+
 **Overview**
 
 DATA is built using **Electron**, **HTML**, **CSS**, and **JavaScript**, providing a fast, offline-first desktop experience with a modern UI and multiple themes.
